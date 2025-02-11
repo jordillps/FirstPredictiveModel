@@ -2,10 +2,10 @@ Machine learning (ML) is a powerful subset of artificial intelligence that enabl
 
 Steps:
 
-Define a problem.
-Collect and preprocess data.
-Engineer and select features.
-Build, train, and evaluate a model.
-Make predictions.
-Deploy your model using Flask.
-Explore advanced techniques such as model explainability, hyperparameter tuning, and automated retraining.
+* Define a problem.
+* Collect and preprocess data.
+* Engineer and select features.
+* Build, train, and evaluate a model.
+* Make predictions.
+* Deploy your model using Flask.
+* Explore advanced techniques such as model explainability, hyperparameter tuning, and automated retraining.
